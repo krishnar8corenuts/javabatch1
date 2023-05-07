@@ -1,1 +1,0 @@
-package com.feuji.commonmodel;public enum Role {    ADMIN,    USER}
